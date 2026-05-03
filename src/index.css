@@ -139,10 +139,10 @@
     box-shadow: var(--shadow-glow);
   }
   .glass {
-    background: hsl(222 40% 10% / 0.6);
+    background: hsl(var(--card) / 0.7);
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
-    border: 1px solid hsl(45 100% 50% / 0.08);
+    border: 1px solid hsl(45 100% 50% / 0.15);
   }
   .gold-border {
     border: 1px solid hsl(45 100% 50% / 0.25);
