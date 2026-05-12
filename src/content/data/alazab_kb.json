@@ -25385,5 +25385,475 @@
     "original": "حساب اضافي لتغير دهر السرير",
     "source": "purchase_history",
     "id": 2953
+  },
+    {
+    "item": "دهان خشب طبيعي لون جوز",
+    "action": "شراء",
+    "unit": "liter",
+    "category": "النجارة والديكور",
+    "price": "850",
+    "original": "دهان خشب طبيعي درجة أولى لون جوز عسلي 5 لتر",
+    "source": "purchase_history",
+    "id": 2954
+  },
+  {
+    "item": "براويز خشب سنط للإطارات",
+    "action": "شراء",
+    "unit": "unit",
+    "category": "النجارة والديكور",
+    "price": "4500",
+    "original": "براويز خشب سنط مقاسات متعددة 40*60 سم للإطارات واللوحات",
+    "source": "purchase_history",
+    "id": 2955
+  },
+  {
+    "item": "منشار كهربائي يدوي",
+    "action": "شراء",
+    "unit": "unit",
+    "category": "عدد وأدوات",
+    "price": "2800",
+    "original": "منشار كهربائي يدوي ماكيتا 500 واط مع شفرة خشب احتياطية",
+    "source": "purchase_history",
+    "id": 2956
+  },
+  {
+    "item": "صنفرة خشب حبيبات متعددة",
+    "action": "شراء",
+    "unit": "pack",
+    "category": "عدد وأدوات",
+    "price": "350",
+    "original": "صنفرة خشب درجات حبيبات 80-120-240-400 18 قطعة",
+    "source": "purchase_history",
+    "id": 2957
+  },
+  {
+    "item": "خامات خياطة سراير",
+    "action": "شراء",
+    "unit": "set",
+    "category": "الأقمشة والمفروشات",
+    "price": "17500",
+    "original": "أقمشة وخيوط ودانتيل وسوست لتصنيع مفروشات السراير",
+    "source": "purchase_history",
+    "id": 2958
+  },
+  {
+    "item": "إسفنج سراير طبي عالي الكثافة",
+    "action": "شراء",
+    "unit": "roll",
+    "category": "الأقمشة والمفروشات",
+    "price": "32000",
+    "original": "إسفنج سراير طبي عالي الكثافة سمك 15 سم طول 2 متر",
+    "source": "purchase_history",
+    "id": 2959
+  },
+  {
+    "item": "صمغ خشب قوي",
+    "action": "شراء",
+    "unit": "liter",
+    "category": "النجارة والديكور",
+    "price": "420",
+    "original": "صمغ خشب أبيض مقاوم للرطوبة 3 لتر",
+    "source": "purchase_history",
+    "id": 2960
+  },
+  {
+    "item": "دواليب حائط خشب سنط",
+    "action": "شراء",
+    "unit": "unit",
+    "category": "النجارة والديكور",
+    "price": "12500",
+    "original": "دوالببي حائط خشب سنط مقاس 100*60 سم تصميم مودرن",
+    "source": "purchase_history",
+    "id": 2961
+  },
+  {
+    "item": "شدادات ومسمار خشب",
+    "action": "شراء",
+    "unit": "box",
+    "category": "عدد وأدوات",
+    "price": "1800",
+    "original": "شدادات ومسمار عين ومسامير خشب بمقاسات مختلفة علبة 500 قطعة",
+    "source": "purchase_history",
+    "id": 2962
+  },
+  {
+    "item": "فوم ورق جدران ديكوري",
+    "action": "شراء",
+    "unit": "roll",
+    "category": "النجارة والديكور",
+    "price": "650",
+    "original": "فوم ورق جدران 3D ديكوري نقشات متعددة لفة 10 متر",
+    "source": "purchase_history",
+    "id": 2963
+  },
+  {
+    "item": "ورق زينة هدايا مقسم",
+    "action": "شراء",
+    "unit": "roll",
+    "category": "القرطاسية",
+    "price": "250",
+    "original": "ورق زينة هدايا خشن عادي مقسم 50×70 سم 5 ألوان",
+    "source": "purchase_history",
+    "id": 2964
+  },
+  {
+    "item": "شموع رومانسية صغيرة",
+    "action": "شراء",
+    "unit": "set",
+    "category": "ديكور المنزل",
+    "price": "500",
+    "original": "شموع رومانسية صغيرة لتزيين سفرة أو غرفة 12 قطعة",
+    "source": "purchase_history",
+    "id": 2965
+  },
+  {
+    "item": "حامل شموع زجاج",
+    "action": "شراء",
+    "unit": "unit",
+    "category": "ديكور المنزل",
+    "price": "800",
+    "original": "حامل شموع زجاج شفاف وردي",
+    "source": "purchase_history",
+    "id": 2966
+  },
+  {
+    "item": "أضواء ليد سلسلة",
+    "action": "شراء",
+    "unit": "unit",
+    "category": "الإضاءة",
+    "price": "720",
+    "original": "أضواء ليد سلسلة 10 لمبات 3 متر",
+    "source": "purchase_history",
+    "id": 2967
+  },
+  {
+    "item": "ستائر قطن مطبع",
+    "action": "شراء",
+    "unit": "set",
+    "category": "الأقمشة والمفروشات",
+    "price": "6500",
+    "original": "ستائر قطن طباعة وردي نيلي 3 قطع 140×250 سم",
+    "source": "purchase_history",
+    "id": 2968
+  },
+  {
+    "item": "مفارش سرير كتان طبيعي",
+    "action": "شراء",
+    "unit": "set",
+    "category": "الأقمشة والمفروشات",
+    "price": "9800",
+    "original": "مفارش سرير كتان طبيعي بلون بيج حجم مفرد",
+    "source": "purchase_history",
+    "id": 2969
+  },
+  {
+    "item": "وسائد ديكور فرو",
+    "action": "شراء",
+    "unit": "set",
+    "category": "الأقمشة والمفروشات",
+    "price": "1200",
+    "original": "وسائد ديكور فرو أبيض وأسود 40×40 سم",
+    "source": "purchase_history",
+    "id": 2970
+  },
+  {
+    "item": "عطر جو جوامع المسك",
+    "action": "شراء",
+    "unit": "unit",
+    "category": "مستلزمات شخصية",
+    "price": "700",
+    "original": "عبوة عطر جوامع المسك 100 مل دهن عود",
+    "source": "purchase_history",
+    "id": 2971
+  },
+  {
+    "item": "مستلزمات رسم ألوان",
+    "action": "شراء",
+    "unit": "set",
+    "category": "القرطاسية",
+    "price": "1150",
+    "original": "الوان خشب فابر كاستل 36 لون قلم فحم ورق كانسون",
+    "source": "purchase_history",
+    "id": 2972
+  },
+  {
+    "item": "إكسسوار شعر ومجوهرات",
+    "action": "شراء",
+    "unit": "set",
+    "category": "إكسسوارات",
+    "price": "450",
+    "original": "إكسسوار شعر طوق وربطات 14 قطعة",
+    "source": "purchase_history",
+    "id": 2973
+  },
+  {
+    "item": "بهارات ومطيبات أكل",
+    "action": "شراء",
+    "unit": "set",
+    "category": "الأطعمة",
+    "price": "1250",
+    "original": "بهارات كاملة فلفل أسود كمون كركم قرفة 6 قطع",
+    "source": "purchase_history",
+    "id": 2974
+  },
+  {
+    "item": "طقم أواني تيفال",
+    "action": "شراء",
+    "unit": "set",
+    "category": "المطبخ",
+    "price": "32500",
+    "original": "طقم أواني تيفال 12 قطعة بحلة وطاسة",
+    "source": "purchase_history",
+    "id": 2975
+  },
+  {
+    "item": "ماكينة قهوة تركية",
+    "action": "شراء",
+    "unit": "unit",
+    "category": "المطبخ",
+    "price": "5600",
+    "original": "ماكينة قهوة تركية أوتوماتيك ستانلس ستيل 1200 واط",
+    "source": "purchase_history",
+    "id": 2976
+  },
+  {
+    "item": "سيراميك حمامات",
+    "action": "شراء",
+    "unit": "m2",
+    "category": "السباكة والسيراميك",
+    "price": "2800",
+    "original": "سيراميك حمامات رمادي غير لامع 60×60 سم",
+    "source": "purchase_history",
+    "id": 2977
+  },
+  {
+    "item": "بورسلان أرضيات درجة تانية",
+    "action": "شراء",
+    "unit": "m2",
+    "category": "السباكة والسيراميك",
+    "price": "1100",
+    "original": "بورسلان أرضيات درجة تانية لون كريمي 60×60",
+    "source": "purchase_history",
+    "id": 2978
+  },
+  {
+    "item": "عفشة حمام صغير",
+    "action": "شراء",
+    "unit": "unit",
+    "category": "السباكة والسيراميك",
+    "price": "320",
+    "original": "بالوعة وعفشة حمام صغير كروي لون كروم 2 بوصة",
+    "source": "purchase_history",
+    "id": 2979
+  },
+  {
+    "item": "سماعات منزل لاسلكية",
+    "action": "شراء",
+    "unit": "unit",
+    "category": "الإلكترونيات",
+    "price": "1750",
+    "original": "سماعات منزل لاسلكية بلوتوث 40 واط",
+    "source": "purchase_history",
+    "id": 2980
+  },
+  {
+    "item": "قفل رقمي إلكتروني",
+    "action": "شراء",
+    "unit": "unit",
+    "category": "الإلكترونيات",
+    "price": "3250",
+    "original": "قفل باب رقمي إلكتروني بصمة وكارت",
+    "source": "purchase_history",
+    "id": 2981
+  },
+  {
+    "item": "قطاعة خضروات يدوية",
+    "action": "شراء",
+    "unit": "unit",
+    "category": "المطبخ",
+    "price": "450",
+    "original": "قطاعة خضروات يدوية متعددة الاستخدام مفروم مكعبات",
+    "source": "purchase_history",
+    "id": 2982
+  },
+  {
+    "item": "ساعة حائط رقمية",
+    "action": "شراء",
+    "unit": "unit",
+    "category": "ديكور المنزل",
+    "price": "950",
+    "original": "ساعة حائط رقمية عرض التاريخ والوقت LED أبيض",
+    "source": "purchase_history",
+    "id": 2983
+  },
+  {
+    "item": "شماعة ملابيس حديد",
+    "action": "شراء",
+    "unit": "set",
+    "category": "الأثاث",
+    "price": "6500",
+    "original": "شماعة ملابيس حديد بكراسي أرضي 180 سم 3 قطع",
+    "source": "purchase_history",
+    "id": 2984
+  },
+  {
+    "item": "شنطة سفر كبيرة شد بلد",
+    "action": "شراء",
+    "unit": "unit",
+    "category": "المستلزمات الرياضية",
+    "price": "3200",
+    "original": "شنطة سفر كبيرة شد بلد قماش مقسمة 4 عجلات 80 سم",
+    "source": "purchase_history",
+    "id": 2985
+  },
+  {
+    "item": "نظارة شمسي استقطاب",
+    "action": "شراء",
+    "unit": "unit",
+    "category": "إكسسوارات",
+    "price": "850",
+    "original": "نظارة شمسي استقطاب للقيادة حماية UV400",
+    "source": "purchase_history",
+    "id": 2986
+  },
+  {
+    "item": "مظلة شاطئ صحراوي",
+    "action": "شراء",
+    "unit": "unit",
+    "category": "المستلزمات الرياضية",
+    "price": "3750",
+    "original": "مظلة شاطئ لحماية من الشمس مع شنطة 180 سم",
+    "source": "purchase_history",
+    "id": 2987
+  },
+  {
+    "item": "كراسي صيد سمك",
+    "action": "شراء",
+    "unit": "unit",
+    "category": "المستلزمات الرياضية",
+    "price": "1250",
+    "original": "كرسي صيد سمك الألمنيوم الخفيف مع حامل صنارة",
+    "source": "purchase_history",
+    "id": 2988
+  },
+  {
+    "item": "مستلزمات صيد طيور زينة",
+    "action": "شراء",
+    "unit": "set",
+    "category": "الحيوانات الأليفة",
+    "price": "2200",
+    "original": "قفص كبير وقضبان أكل وماء لطيور الزينة",
+    "source": "purchase_history",
+    "id": 2989
+  },
+  {
+    "item": "فوانيس رمضان صغيرة",
+    "action": "شراء",
+    "unit": "set",
+    "category": "ديكور المنزل",
+    "price": "2500",
+    "original": "فوانيس رمضان صغيرة بتصميمات مختلفة فانوس 10 سم 6 ألوان",
+    "source": "purchase_history",
+    "id": 2990
+  },
+  {
+    "item": "زينة رمضان معلقات",
+    "action": "شراء",
+    "unit": "set",
+    "category": "ديكور المنزل",
+    "price": "680",
+    "original": "زينة رمضان هلال معلقات فانوس ونجوم 14 قطعة",
+    "source": "purchase_history",
+    "id": 2991
+  },
+  {
+    "item": "مدفع رمضان لعبة أطفال",
+    "action": "شراء",
+    "unit": "unit",
+    "category": "ألعاب",
+    "price": "430",
+    "original": "مدفع رمضان لعبة أطفال مصدر ضوء وصوت بطارية",
+    "source": "purchase_history",
+    "id": 2992
+  },
+  {
+    "item": "هدايا عيد صغيرة توزيعات",
+    "action": "شراء",
+    "unit": "set",
+    "category": "مناسبات",
+    "price": "1450",
+    "original": "توزيعات هدايا صغيرة بوكيه ورد عيدية 20 قطعة",
+    "source": "purchase_history",
+    "id": 2993
+  },
+  {
+    "item": "حفاضات كبار السن",
+    "action": "شراء",
+    "unit": "pack",
+    "category": "المستلزمات الطبية",
+    "price": "1800",
+    "original": "حفاضات كبار السن مقاس L 30 قطعة عالي الامتصاص",
+    "source": "purchase_history",
+    "id": 2994
+  },
+  {
+    "item": "جهاز قياس الضغط",
+    "action": "شراء",
+    "unit": "unit",
+    "category": "المستلزمات الطبية",
+    "price": "2450",
+    "original": "جهاز قياس ضغط الدم يدوي سماعة طبية",
+    "source": "purchase_history",
+    "id": 2995
+  },
+  {
+    "item": "كريم ترطيب لليدين",
+    "action": "شراء",
+    "unit": "unit",
+    "category": "مستلزمات شخصية",
+    "price": "350",
+    "original": "كريم ترطيب اليدين 100 مل لافندر",
+    "source": "purchase_history",
+    "id": 2996
+  },
+  {
+    "item": "أحذية منزل شتوية",
+    "action": "شراء",
+    "unit": "pair",
+    "category": "الأحذية",
+    "price": "620",
+    "original": "حذاء منزل فرو ناعم سخان شتوي 3 ألوان",
+    "source": "purchase_history",
+    "id": 2997
+  },
+  {
+    "item": "جوارب حريمي قطن طويل",
+    "action": "شراء",
+    "unit": "set",
+    "category": "الأحذية",
+    "price": "480",
+    "original": "جوارب قطن طويل مقاس 2-5 6 قطع للنساء",
+    "source": "purchase_history",
+    "id": 2998
+  },
+  {
+    "item": "خيط حرير تطريز يدوي",
+    "action": "شراء",
+    "unit": "set",
+    "category": "الحرف اليدوية",
+    "price": "680",
+    "original": "خيط حرير تطريز يدوي 24 لون إبر خشب",
+    "source": "purchase_history",
+    "id": 2999
+  },
+  {
+    "item": "سجادة صلاة فاخرة مخمل",
+    "action": "شراء",
+    "unit": "unit",
+    "category": "أغراض دينية",
+    "price": "1150",
+    "original": "سجادة صلاة فاخرة مخمل مطبوع مسجد نقش ذهبي 70×120 سم",
+    "source": "purchase_history",
+    "id": 3000
   }
 ]
